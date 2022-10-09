@@ -1,0 +1,13 @@
+.studentOne{
+    /* opacity: 1; */
+    display: flex;
+    min-height: 100vh;
+    /* background-image: url(C:\Users\IC\my-app\src\media\pexels-olia-danilevich-5088017.jpg); */
+    background-image: url(/src/media/1234.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    margin: 0;
+}
+.studentOne .container{
+    /* background-color: black; */
+}
